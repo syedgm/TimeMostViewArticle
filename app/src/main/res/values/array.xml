@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_item_en">
+        <item>Home</item>
+
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="menu_item_ar">
+        <item>الصفحة الرئيسية</item>
+        <item>إعدادات</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

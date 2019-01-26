@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="event_bg_blue">#eae7f1</color>
+    <color name="event_bg_green">#ccecea</color>
+
+    <color name="event_line_color">#EDEDED</color>
+
+    <color name="line_seprator">#caeaf6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_dull">#F1F1F1</color>
+    <color name="pre_close">#FFC472</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#0abcff</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="header1_bg_color">#ecf6fa</color>
+    <color name="drawerheader">#00a297</color>
+
+    <color name="black_moredull">#666666</color>
+    <color name="black_verymoredull">#9D9D9D</color>
+    <color name="transparent">#00000000</color>
+    <color name="Green_Dark">#508500</color>
+    <color name="Blue_lightskypblue">#63D2EB</color>
+    <color name="Blue_skyblue">#1495BC</color>
+    <color name="Blue_Emarket">#59BAD8</color>
+    <color name="selector_light">#D2E1F0</color>
+    <color name="Blue_Dark_skypeblue">#007395</color>
+    <color name="black_verylight">#BDBDBD</color>
+    <color name="white_progressbar_bg">#E1E1E1</color>
+    <color name="green_bright">#18BB49</color>
+
+    <color name="yellow_title">#d68300</color>
+
+
+
+    <color name="disable_text">#cee1fd</color>
+    <color name="ColorPrimary">#0F8943</color>
+    <color name="ColorPrimaryDark">#0a7e00</color>
+    <color name="tab_indicator">#005324</color>
+    <color name="drawer_selector">#00aeef</color>
+    <color name="colorGreyText">#AAAAAA</color>
+
+    <color name="power_by_setting_text_color">#C2C2C2</color>
+
+    <color name="argaam_com">#EE7C22</color>
+</resources>
